@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+
+h1{
+    color: azure;
+}
+
+p{
+    color: chocolate;
+    text-align: justify;
+    font-size: 20px;
+}
+
+body{
+    background-color: black;
+}

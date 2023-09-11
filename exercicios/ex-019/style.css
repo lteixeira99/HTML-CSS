@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    background-color: grey;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: aquamarine;
+}
+#subprincipal{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+#principal{
+    font-family: 'Courier New', Courier, monospace;
+    color: greenyellow;
+}
+.basico{
+    color: yellow;
+}
+.destaque{
+    background-color: blueviolet;
+}

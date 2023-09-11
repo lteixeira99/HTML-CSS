@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'love';
+    src: url('love story ttf.ttf');
+} 
+
+h2{
+    font-family: 'love', sans-serif;
+}
